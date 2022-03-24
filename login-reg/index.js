@@ -60,5 +60,5 @@ app.post('/register',(req,res)=>{
 })
 
 app.listen(9002,()=>{
-    console.log("started at port 9002");
+    console.log("Successfully started at port 9002");
 })
